@@ -1,10 +1,10 @@
 import React from 'react';
-import StartPage from './components/startPage/StartPage';
+import AppWorldClock from './components/appWorldClock/AppWorldClock';
 import './App.css';
 
 function App() {
   return (
-    <StartPage />
+    <AppWorldClock />
 
   );
 }
