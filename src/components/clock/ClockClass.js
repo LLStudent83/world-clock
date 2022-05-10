@@ -1,7 +1,4 @@
-/* eslint-disable react/destructuring-assignment */
-/* eslint-disable react/prop-types */
 import React from 'react';
-// import PropTypes from 'prop-types';
 import './clock.css';
 
 export default class ClockClass extends React.Component {
